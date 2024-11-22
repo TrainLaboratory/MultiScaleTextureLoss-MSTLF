@@ -1,7 +1,8 @@
 # Multi Scale Texture Loss Function for CT denoising with GANs
 
-<img width="1133" alt="Screenshot 2024-11-22 at 20 39 44" src="https://github.com/user-attachments/assets/95f63c93-60bf-4c50-a989-1f91404d45b3">
 
+
+<img width="969" alt="Screenshot 2024-11-22 at 20 54 10" src="https://github.com/user-attachments/assets/83c7abcf-286b-4198-ac0e-58cb13774f4b">
 
 
 Overall framework of MSTLF. (a) MSTLF mainly includes two essential components, i.e., the Multi-Scale Texture Extractor (MSTE) and the Aggregation Module (AM).
