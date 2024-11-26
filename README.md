@@ -2,8 +2,9 @@
 
 
 
+<img width="1299" alt="Screenshot 2024-11-26 at 12 35 18" src="https://github.com/user-attachments/assets/73bc2904-719f-45e8-a0d4-83a167d79c1e">
 
-[framework_MSTLF_v10.pdf](https://github.com/user-attachments/files/17918721/framework_MSTLF_v10.pdf)
+
 
 
 
